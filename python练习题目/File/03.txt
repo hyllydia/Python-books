@@ -1,0 +1,5 @@
+beforeSend- debug
+error- info
+dataFilter- warning
+success- error
+complete- critical

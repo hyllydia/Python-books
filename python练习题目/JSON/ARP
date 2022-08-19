@@ -1,0 +1,21 @@
+{
+    "arp": {
+        "entry": [
+            {
+                "ip": "9.0.0.1",
+                "mac": "001100000004",
+                "interface": "X0",
+                "publish": false,
+                "bind_mac": false
+            },
+            {
+                "ip": "9.0.0.2",
+                "mac": "001100000005",
+                "interface": "X0",
+                "publish": false,
+                "bind_mac": false
+
+            }
+        ]
+    }
+}

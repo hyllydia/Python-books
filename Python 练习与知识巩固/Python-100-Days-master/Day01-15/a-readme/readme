@@ -1,0 +1,7 @@
+1、08,09面向对象部分跳过去了
+2、12 字符串和正则表达式跳过去了
+3、 11文件和异常 json 的一些问题
+    json.load()
+    json.loads()
+    json.dump()
+    json.dumps()没搞明白
